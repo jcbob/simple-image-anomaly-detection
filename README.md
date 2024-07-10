@@ -1,4 +1,4 @@
-# Rozpoznawanie_obrazow_1
+# simple-image-anomaly-detection
 This is a repository for a project associated with the curriculum for the "Image Recognition" class at the University of Science and Technology in Wrocław
 
 ---
